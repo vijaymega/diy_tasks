@@ -1,0 +1,71 @@
+.center-box{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    border: 3px solid black;
+}
+.sq{
+    border: 5px solid blue;
+    position: absolute;
+    height: 70px;
+    width: 70px;
+}
+.square1{
+    top: 0px;
+    left: 0px;
+
+
+}
+.square2{
+    top: 0px;
+    right: 0px;
+
+}
+.square3{
+    left: 0px;
+    bottom: 0px;
+
+}
+.square4{
+    right: 0px;
+    bottom: 0px;
+
+}
+.ci{
+    border: 5px solid red;
+    position: absolute;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+
+}
+.circle1{
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    margin: auto;
+    
+
+}
+.circle2{
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: auto;
+
+}
+.circle3{
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+
+}
+.circle4{
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+
+}

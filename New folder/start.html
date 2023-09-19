@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="./script.js"></script>
+</head>
+<body>
+    <h3 id="head">Heading 3</h3>
+    <input name="Changer">
+    <button onclick="Change()">Click here</button>
+    <script>
+        var Change=()=>{
+            document.getElementById('head').style.color="orange"
+            element=document.getElementsByName('Changer')[0];
+            element.setAttribute("type", "radio");
+        }
+        
+    </script>
+    
+</body>
+</html>

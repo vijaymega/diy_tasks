@@ -1,0 +1,148 @@
+
+.loginpage{
+  background-color: red;
+  height: 45px;
+  width: 99%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 10px;
+} 
+.oa{
+  display: flex;
+}
+
+.logo{
+  width: 12px;
+  height: 12px;
+  margin-left: 10%;
+  padding: 13px;
+  border: solid 1px #707070;
+  background-color: #fff;
+  border-radius: 50%;
+  font-family: poppins;
+  font-size: 30px;
+  font-weight: bold;
+  /* font-stretch: normal; */
+  font-style: normal;
+  line-height: 7px;
+  letter-spacing: normal;
+  color: #eb2929;
+}
+.loginbutton{
+  background-color: transparent;
+  color: white;
+  /* border: double; */
+}
+.createbutton{
+  background-color: transparent;
+  color: white;
+}
+.overall-container{
+  display: flex;
+  height: 530px;
+  width: 25%;
+  padding-left: 5px;
+  /* margin-left: 10px; */
+  border: 1px solid black;  
+}
+.container-1{
+  height: 200px;
+  width: 80%;
+  margin-left: 10px;
+  /* padding-left: 10px; */
+  border: 1px solid black;
+}
+.container-2{
+  height: 200px;
+  width: 100%;
+  /* padding-left: 10px; */
+  border: 1px solid black;
+}
+.filterpanel{
+  height: 500px;
+  width: 100%;  
+}
+.heading{
+  height: 30px;
+  width: 25%;
+  padding-left: 0;
+  color: blue;
+  font-family: poppins;
+}
+.qs-subheading{
+  /* float: right; */
+}
+.filterpanelheading{
+  font-family: poppins;
+  font-size: 16px;
+  font-weight: bold;
+}
+.filterpanelSubHeading{
+  font-family: poppions;
+}
+.resultsimage{
+  height: 120px;
+  width: 120px;
+  border-radius: 20px;
+
+}
+.upperSection{
+  width: 97%;
+  padding: 5px;
+  margin-left: 10px;
+
+}
+.lowerSection{
+  width: 97%;
+  padding: 5px;
+  /* margin-left: 5px; */
+  display: flex;
+
+
+}
+.Address{
+  float: right;
+  /* text-align: center; */
+  margin-left: 10px;
+  margin-top: 45px;
+  padding-right: 200px;
+}
+.resultsAddress{
+  float: right;
+  font-size: 10px;
+  font-weight: 100px;
+  font-style: normal;
+  color: blueviolet;
+}
+.resultsHeading{
+  font-size: 17px;
+  font-weight: bold;
+
+}
+.resultsSubHeading{
+  font-size: 13px;
+  font-weight: bold;
+  font-style: normal;
+}
+.pagination{
+  display: flex;
+  justify-content: center;
+ 
+}
+.paginationbutton{
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 9px;
+  width: 9px;
+  padding: 5px;
+  /* text-align: center; */
+  padding-top: 3px;
+  padding-bottom: 7px;
+  /* letter-spacing: 1px; */
+  /* line-height: 0; */
+  margin: 8px;
+  
+}
+

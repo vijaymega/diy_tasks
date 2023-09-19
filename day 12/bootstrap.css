@@ -1,0 +1,19 @@
+.row{
+    height: 50px;
+}
+.Bluediv{
+    background-color: blue;
+}
+.pinkdiv{
+    background-color: pink;
+    border: 1px solid black;
+}
+.greendiv{
+    background-color: green;
+    border: 1px solid black;
+}
+.blackdiv{
+    background-color:  #800080;
+    border: 1px solid black;
+    height: 40px;
+}

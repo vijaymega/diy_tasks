@@ -1,0 +1,13 @@
+.mainclass{
+    
+}
+.form{
+    margin-left: 30px;
+    display: flex;
+}
+.container{
+    margin: auto;
+}
+.container-1{
+    float: right;
+}
