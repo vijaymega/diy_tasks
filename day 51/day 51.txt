@@ -1,0 +1,15 @@
+1. What is node js ?
+    
+      ==>Node.js is a javascript runtime built on chrome's V8 engine,to take
+         the javascript codes and compile them in time to machine codes,to
+         build fast and scalable network applications.
+
+      ==>Node.js solves all this problem by collecting all these requests in 
+         a single thread via events,so when the first event is being processed. 
+         It does not wait for the response but simply contiues with the next
+         request.Thus, it eliminates the waiting time and cost.
+
+
+2. what is NPM ?
+      ==>NPM ia an online respository that gives up open-source packages to solve
+         common problems by installing those packages instead of recreting it. 
